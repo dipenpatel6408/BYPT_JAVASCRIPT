@@ -7,6 +7,7 @@ const allpositive=numbers.every(function (value) {
     value>=0;
 });
 console.log(allpositive);
+console.log("test to git");
 //first.forEach((number) =>console.log(number));
 
 

@@ -1,4 +1,4 @@
-
+//prime number
 // looping from lowerNumber to higherNumber
 for (let i = 1; i <= 10; i++) {
     let flag = 0;
