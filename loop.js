@@ -1,5 +1,6 @@
 
-
+var one = prompt("enter value");
+alert(one)
 const numbers=[1,2,3];
 
 
